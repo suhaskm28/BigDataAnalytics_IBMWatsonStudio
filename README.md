@@ -1,9 +1,10 @@
-Project ID: 4642346
+# Project ID: 4642346
 
-Group Members:
-# •	Name : R Bilwananda
-  CAN_ID : CAN_33885215
-•	Name : Suhas K M
-CAN_ID : CAN_33892091
-•	Name : Thejas R
-CAN_ID : CAN_33887059
+## Group Members
+
+* **R Bilwananda**
+    * CAN ID: `CAN_33885215`
+* **Suhas K M**
+    * CAN ID: `CAN_33892091`
+* **Thejas R**
+    * CAN ID: `CAN_33887059`
