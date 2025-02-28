@@ -27,30 +27,30 @@ This project focuses on **analyzing customer purchase patterns** using **IBM Wat
 ---
 
 ## 🚀 Project Workflow
-### 🔹 1. Data Collection & Storage  
+### 1. Data Collection & Storage  
 - Raw customer purchase data is **stored securely** in **IBM Cloud Object Storage**.
 
-### 🔹 2. Data Processing (ETL Pipeline)  
+### 2. Data Processing (ETL Pipeline)  
 - **PySpark-based ETL pipeline** for data cleaning, transformation, and analysis.
 
-### 🔹 3. Predictive Modeling  
+### 3. Predictive Modeling  
 - **Machine learning models (Random Forest, Logistic Regression, etc.)** trained using **Watson Studio**.
 - **Model evaluation** using AUC, Accuracy, Precision, Recall, and F1 Score.
 
-### 🔹 4. Dashboard Development  
+### 4. Dashboard Development  
 - **Interactive analytics dashboard** built using **Dash & Plotly** for real-time visualization.
 - Features include:
   - Customer segmentation analysis
   - Purchase behavior trends
   - Sales forecasts and insights
 
-### 🔹 5. Deployment & Maintenance  
+### 5. Deployment & Maintenance  
 - **Deployed in IBM Watson Studio** for real-time insights.
 - **Model performance monitoring** and **scalability** considerations.
 
 ---
 
-## 📈 Key Insights & Impact
+## Key Insights & Impact
 ✔ **Customer Segmentation** – Identified purchase behavior across different customer groups.  
 ✔ **Trend Analysis** – Visualized seasonal trends, product preferences, and spending habits.  
 ✔ **Predictive Analytics** – Enabled forecasting of high-value customers and churn risk.  
@@ -58,7 +58,7 @@ This project focuses on **analyzing customer purchase patterns** using **IBM Wat
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 This project successfully applies **big data analytics** to **understand customer purchasing behavior** using **IBM Watson Studio and Apache Spark**. The integration of **machine learning models, interactive dashboards, and cloud-based deployment** ensures **scalability, efficiency, and real-time insights**, making it a **powerful solution for businesses** looking to optimize customer engagement and sales strategies.
 
 ---
