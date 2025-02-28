@@ -5,7 +5,7 @@ This project focuses on **analyzing customer purchase patterns** using **IBM Wat
 
 ## 🆔 Project Details
 - **Project ID**: 4642346
-- **Repository**: [GitHub Repo Link] _(Add the actual link)_
+- **Repository**: [https://github.com/suhaskm28/BigDataAnalytics_IBMWatsonStudio]
 
 ## 👥 Team Members
 | Name        | CAN ID         |
