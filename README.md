@@ -1,9 +1,9 @@
-# 📊 Big Data Analytics Using IBM Watson Studio and Apache Spark
+# Big Data Analytics Using IBM Watson Studio and Apache Spark
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on **analyzing customer purchase patterns** using **IBM Watson Studio** and **Apache Spark**. The goal is to **identify trends, segment customers, and predict future purchasing behavior**, enabling businesses to make data-driven decisions.
 
-## 🆔 Project Details
+## Project Details
 - **Project ID**: 4642346
 - **Repository**: [https://github.com/suhaskm28/BigDataAnalytics_IBMWatsonStudio]
 
