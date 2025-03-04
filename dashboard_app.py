@@ -8,12 +8,11 @@ import us  # Library to map state names to abbreviations
 import ibm_boto3
 from io import BytesIO
 import os
-print("Public Watsonx.ai URL:", os.getenv("JUPYTERHUB_SERVICE_PREFIX"))
 
 # IBM Cloud Object Storage Credentials
 cos_credentials = {
-    "access_key_id": "891d47bfa17346038b970fa46d63fd41",
-    "secret_access_key": "25fb5c98b01a4359fc5a11fcd848ae60debd89c2ac7ebf66",
+    "access_key_id": "access_key_id",
+    "secret_access_key": "secret_access_key",
     "endpoint": "https://s3.eu-de.cloud-object-storage.appdomain.cloud",
     "bucket": "processed-data-bucket"
 }
